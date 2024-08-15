@@ -9,6 +9,9 @@
 body {
   background-color: black;
 }
+html{
+  scroll-behavior: smooth;
+}
 :root {
   background-color: rgb(50, 50, 48);
 }
